@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ExportDefectData.DefectData" CodeBehind="DefectData.svc.cs" %>
